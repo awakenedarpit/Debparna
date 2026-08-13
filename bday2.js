@@ -1,5 +1,5 @@
 /* =========================================================
-   STORYMINT — BIRTHDAY LETTER
+   Awakenedarpit— BIRTHDAY LETTER
    ---------------------------------------------------------
    EDIT EVERYTHING HERE.
    This page has no editable fields on the page itself —
@@ -11,10 +11,10 @@
 const CONFIG = {
 
   // Dayy of the month being celebrated (1–31)
-  day: 5,
+  day: 13,
 
   // The birthday person's name, shown on the memory wall and letter
-  name: "SHIVANI",
+  name: "MAHIMA",
 
   // The letter message. Use \n for line breaks.
   message:
@@ -29,15 +29,15 @@ Happy Birthday ♡`,
   // Nine memory-wall photos. Leave src empty ("") for a soft
   // placeholder card, or point it at an image URL / base64 string.
   photos:[
-    { src:"", caption:"first memory" },
-    { src:"", caption:"that day" },
-    { src:"", caption:"favourite" },
-    { src:"", caption:"together" },
-    { src:"", caption:"good days" },
-    { src:"", caption:"always" },
-    { src:"", caption:"laughter" },
-    { src:"", caption:"forever" },
-    { src:"", caption:"us" }
+    { src:"photos/p1.jpg", caption:"first memory" },
+    { src:"photos/p2.jpg", caption:"that day" },
+    { src:"photos/p3.jpg", caption:"favourite" },
+    { src:"photos/p4.jpg", caption:"together" },
+    { src:"photos/p5.jpg", caption:"good days" },
+    { src:"photos/p6.jpg", caption:"always" },
+    { src:"photos/p7.jpg", caption:"laughter" },
+    { src:"photos/p8.jpg", caption:"forever" },
+    { src:"photos/p9.jpg", caption:"us" }
   ],
 
   // Little floating words shown on the final surprise screen
